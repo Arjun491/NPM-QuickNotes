@@ -1,0 +1,26 @@
+{
+  "name": "npm_practice",
+  "version": "1.0.0",
+  "description": "practicing npm",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arjun491/NPM-QuickNotes.git"
+  },
+  "author": "Arjun Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arjun491/NPM-QuickNotes/issues"
+  },
+  "homepage": "https://github.com/Arjun491/NPM-QuickNotes#readme",
+  "dependencies": {
+    "moment": "^2.29.1",
+    "uniq": "^1.0.1"
+  },
+  "devDependencies": {
+    "watchify": "^4.0.0"
+  }
+}
